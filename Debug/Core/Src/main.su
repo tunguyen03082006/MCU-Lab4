@@ -1,0 +1,17 @@
+main.c:64:6:Task_LED1	8	static
+main.c:65:6:Task_LED2	8	static
+main.c:66:6:Task_LED3	8	static
+main.c:67:6:Task_LED4	8	static
+main.c:68:6:Task_LED5	8	static
+main.c:69:13:Print_Time	72	static
+main.c:74:6:Task_Print10ms	8	static
+main.c:75:6:Task_Print500ms	8	static
+main.c:76:6:Task_OneShot	8	static
+main.c:80:6:Task_StopPrint10ms	8	static
+main.c:86:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:97:5:main	8	static
+main.c:161:6:SystemClock_Config	72	static
+main.c:197:13:MX_TIM2_Init	32	static
+main.c:242:13:MX_USART2_UART_Init	8	static
+main.c:275:13:MX_GPIO_Init	32	static
+main.c:305:6:Error_Handler	4	static,ignoring_inline_asm
